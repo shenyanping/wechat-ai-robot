@@ -9,7 +9,7 @@
 - [x] **语音能力：** 可识别语音消息，通过文字或语音回复，支持 azure, baidu, google, openai(whisper/tts) 等多种语音模型
 - [x] **图像能力：** 支持图片生成、图片识别、图生图（如照片修复），可选择 Dall-E-3, stable diffusion, replicate, midjourney, CogView-3, vision模型
 - [x] **丰富插件：** 支持个性化插件扩展，已实现多角色切换、文字冒险、敏感词过滤、聊天记录总结、文档总结和对话、联网搜索等插件
-- [x] **知识库：** 通过上传知识库文件自定义专属机器人，可作为数字分身、智能客服、私域助手使用，基于 [LinkAI](https://link-ai.tech) 实现
+- [x] **知识库：** 通过上传知识库文件自定义专属机器人，可作为数字分身、智能客服、私域助手使用，基于 [喂AI](https://pcai.wailikeji.com) 实现
 
 # 演示
 
@@ -26,13 +26,13 @@ SaaS服务、私有化部署、稳定托管接入 等多种模式。
 
 企业服务和商用咨询可联系产品顾问：
 
-<img width="240" src="https://img-1317903499.cos.ap-guangzhou.myqcloud.com/docs/product-manager-qrcode.jpg">
+<img width="240" src="https://wailikeji.oss-cn-beijing.aliyuncs.com/yuanma/20051687709614_.pic.jpg">
 
 # 开源社区
 
 添加小助手微信加入开源项目交流群：
 
-<img width="240" src="./docs/images/contact.jpg">
+<img width="240" src="https://wailikeji.oss-cn-beijing.aliyuncs.com/wailikeji/gongsi/3401708588995_.pic.jpg">
 
 # 更新日志
 
